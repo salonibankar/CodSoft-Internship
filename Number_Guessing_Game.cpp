@@ -9,8 +9,6 @@ int main()
         srand(time(0));
         int randomInt = rand() % 101;
 
-        cout << "num : " << randomInt << endl;
-
         cout << "-----------------------NUMBER GUESSING GAME------------------------" << endl;
         cout << " RULES \n"
              << endl;
